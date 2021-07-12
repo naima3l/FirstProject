@@ -7,7 +7,7 @@ namespace FirstProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Sono Naima");
+            Console.WriteLine("Sono Naima. Tutto bene?");
         }
     }
 }
